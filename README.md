@@ -18,8 +18,6 @@
 <a href="https://x.com/_ziolken" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCluWdT73ruA48aMjNiX2pWw" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
 <a href="https://discord.gg/X7QrJvx7Sp" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-<a href="mailto:zknisme@gmail.com" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/ZiolKen/bio/main/resource/mail.PNG" alt="Mail: zknisme@gmail.com" height="30" width="30" /></a>
-<a href="https://www.paypal.me/zkn0461" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/ZiolKen/bio/main/resource/paypal.png" alt="PayPal" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
