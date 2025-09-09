@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziolken&label=Profile%20views&color=0e75b6&style=flat" alt="View" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziolken&theme=algolia&rank=-?" alt="Trophy" /></a> </p>
-<p align="left"> <a href="https://twitter.com/_ziolken" target="blank" ><img src="https://img.shields.io/twitter/follow/_ziolken?logo=twitter&style=for-the-badge" alt="Follow" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_ziolken" target="blank" ><img src="https://img.shields.io/twitter/follow/_ziolken?logo=twitter&style=flat" alt="Follow" /></a> </p>
 
 <a href="https://discord.com/users/951037699320602674" target="blank" rel="noopener noreferrer"><img src="https://lanyard.cnrad.dev/api/951037699320602674?bg=181825&borderRadius=15px&animated=true&showDisplayName=true" alt="Discord" /></a>
 
