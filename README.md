@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziolken&theme=algolia&rank=-?" alt="Trophy" /></a> </p>
 <p align="left"> <a href="https://twitter.com/_ziolken" target="blank" ><img src="https://img.shields.io/twitter/follow/_ziolken?logo=twitter&style=flat" alt="Follow" /></a> </p>
 
-<a href="https://discord.com/users/951037699320602674" target="blank" rel="noopener noreferrer"><img src="https://lanyard.cnrad.dev/api/951037699320602674?theme=dark&animated=true&showDisplayName=true" alt="Discord" style="border-radius:12px;border:2px solid rgba(255, 255, 255, 0.2);transition:transform 0.2s ease, border-color 0.2s ease;cursor:pointer" /></a>
+<a href="https://discord.com/users/951037699320602674" target="blank" rel="noopener noreferrer"><img src="https://lanyard.cnrad.dev/api/951037699320602674?theme=dark&borderRadius=12px&animated=true&showDisplayName=true" alt="Discord" style="border-radius:12px;border:2px solid rgba(255, 255, 255, 0.2);transition:transform 0.2s ease, border-color 0.2s ease;cursor:pointer" /></a>
 
 - 📫 How to reach me: **[zknisme@gmail.com](mailto:zknisme@gmail.com)**
 
