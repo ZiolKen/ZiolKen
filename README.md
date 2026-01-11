@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/ZiolKen/ZiolKen/main/banner.jpeg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm ZiolKen</h1>
-<h3 align="center">AVNs Lover. ❤️‍🔥</h3>
+<h1 align="center">Welcome to my profile</h1>
+<h3 align="center">I'm ZiolKen.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziolken&label=Profile%20views&color=0e75b6&style=flat" alt="View" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophy-rho.vercel.app/?username=ziolken&theme=algolia&rank=-?" alt="Trophy" /></a> </p>
@@ -28,4 +28,4 @@
 
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziolken&show_icons=true&bg_color=181825&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&hide_border=true&border_radius=12&locale=en&layout=compact" alt="Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziolken&show_icons=true&bg_color=181825&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats&locale=en" alt="Stats" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiolKen"></img>
