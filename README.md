@@ -25,7 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ZiolKen&theme=algolia&margin-w=4&rank=-?)
 
 ## 📈 Github Activity Graph
-<img src="https://raw.githubusercontent.com/ZiolKen/ZiolKen/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
+<img src="https://pacman.abozanona.me?username=ZiolKen" alt="Pacman animation" />
 
 <img src="https://raw.githubusercontent.com/ZiolKen/ZiolKen/output/snake.svg" alt="Snake animation" />
 
