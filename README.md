@@ -27,7 +27,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZiolKen/ZiolKen/output/pacman-contribution-graph.svg">
 </picture>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ZiolKen&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
