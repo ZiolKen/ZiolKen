@@ -29,15 +29,14 @@
 
 <img src="https://raw.githubusercontent.com/ZiolKen/ZiolKen/output/snake.svg" alt="Snake animation" />
 
+###
+---
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiolKen&theme=rogue" alt="Activity graph" />
 
 <img src="https://api.vaunt.dev/v1/github/entities/ZiolKen/contributions?format=svg&private=true" alt="Stat" />
 
-###
----
-![Metrics](https://metrics.lecoq.io/ZiolKen?template=classic&achievements=1&lines=1&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSaigon)
-
-## 💰 You can help me by Donating
+## 🎁 Support
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/_zkn) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zkn0461) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ZiolKen) 
 
 <div>
