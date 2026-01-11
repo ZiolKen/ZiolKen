@@ -7,7 +7,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ZiolKen.ZiolKen&"  />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF00FF&center=true&vCenter=true&random=true&width=435&height=40&lines=Welcome+to+my+profile!;%F0%9F%91%8B+Hi%2C+I'm+ZiolKen.;A+random+guy+that+love+AVNs+%26+Coding;Thank+you+for+visit+my+profile.;Wrote+with+%E2%9D%A4+by+ZiolKen.;%F0%9F%8D%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF00FF&center=true&vCenter=true&random=true&width=435&height=80&lines=Welcome+to+my+profile!;%F0%9F%91%8B+Hi%2C+I'm+ZiolKen.;A+random+guy+that+love+AVNs+%26+Coding;Thank+you+for+visit+my+profile.;Wrote+with+%E2%9D%A4+by+ZiolKen.;%F0%9F%8D%81)](https://git.io/typing-svg)
 
 <a href="https://discord.com/users/951037699320602674" target="blank" rel="noopener noreferrer"><img src="https://lanyard.cnrad.dev/api/951037699320602674?theme=dark&borderRadius=12px&animated=true&showDisplayName=true" alt="Discord" style="border-radius:12px;border:2px solid rgba(255, 255, 255, 0.2);transition:transform 0.2s ease, border-color 0.2s ease;cursor:pointer" /></a>
 
@@ -35,7 +35,7 @@
 
 ###
 ---
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+![Metrics](https://metrics.lecoq.io/ZiolKen?template=classic&languages=1&achievements=1&lines=1&traffic=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&config.timezone=Asia%2FSaigon)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/_zkn) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zkn0461) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ZiolKen) 
